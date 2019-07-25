@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.cloudnative.iml" filepath="$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.cloudnative.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.cloudnative.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.cloudnative.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.cloudnative.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.cloudnative.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.configserver.iml" filepath="$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.configserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.configserver.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.configserver.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.configserver.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.configserver.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.course.iml" filepath="$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.course.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.course.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.course.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.course.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.discoveryserver.iml" filepath="$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.discoveryserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.discoveryserver.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.discoveryserver.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.discoveryserver.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.discoveryserver.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.student.iml" filepath="$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.student.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.student.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.student.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.student.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.student.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.teacher.iml" filepath="$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.teacher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.teacher.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.teacher.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.teacher.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.teacher.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.tracing.iml" filepath="$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.tracing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.tracing.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.tracing.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.tracing.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.luminis.net.spring.cloud.pizza.tracing.test.iml" />
+    </modules>
+  </component>
+</project>

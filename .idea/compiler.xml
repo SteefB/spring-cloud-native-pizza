@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="com.luminis.net.spring.cloud.pizza.cloudnative.main" target="1.8" />
+      <module name="com.luminis.net.spring.cloud.pizza.cloudnative.test" target="1.8" />
+      <module name="com.luminis.net.spring.cloud.pizza.configserver.main" target="1.8" />
+      <module name="com.luminis.net.spring.cloud.pizza.configserver.test" target="1.8" />
+      <module name="com.luminis.net.spring.cloud.pizza.course.main" target="1.8" />
+      <module name="com.luminis.net.spring.cloud.pizza.course.test" target="1.8" />
+      <module name="com.luminis.net.spring.cloud.pizza.discoveryserver.main" target="1.8" />
+      <module name="com.luminis.net.spring.cloud.pizza.discoveryserver.test" target="1.8" />
+      <module name="com.luminis.net.spring.cloud.pizza.student.main" target="1.8" />
+      <module name="com.luminis.net.spring.cloud.pizza.student.test" target="1.8" />
+      <module name="com.luminis.net.spring.cloud.pizza.teacher.main" target="1.8" />
+      <module name="com.luminis.net.spring.cloud.pizza.teacher.test" target="1.8" />
+      <module name="com.luminis.net.spring.cloud.pizza.tracing.main" target="1.8" />
+      <module name="com.luminis.net.spring.cloud.pizza.tracing.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
