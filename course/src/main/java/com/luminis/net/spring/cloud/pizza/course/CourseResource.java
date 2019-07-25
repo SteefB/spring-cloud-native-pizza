@@ -52,7 +52,6 @@ public class CourseResource {
                 new ParameterizedTypeReference<List<String>>() {
                 });
 
-
         foundCourse.setStudents(studentResponseEntity.getBody());
         foundCourse.setTeachers(teacherResponseEntity.getBody());
 
